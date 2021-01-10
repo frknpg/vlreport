@@ -136,4 +136,7 @@ dmypy.json
 .pytype/
 
 # Cython debug symbols
-cython_debug/
+cython_debug
+
+report-files/
+images/
